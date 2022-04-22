@@ -1,0 +1,68 @@
+/*font start*/
+@font-face{
+	src: url(../fonts/Roboto-Bold.ttf);
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+.layout{
+	border: 5px solid;
+	padding: 100px 0;
+}
+
+.content{
+	border: 5px solid;
+	padding: 100px 0;
+}
+
+.form{
+	border: 5px solid;
+	padding: 100px 0;
+}
+
+.box{
+	height: 100px;
+	background: red;
+	border: 3px solid;
+}
+
+.box2{
+	height: 100px;
+	background: yellow;
+	border: 3px solid;
+}
+
+.box3{
+	height: 100px;
+	background: limegreen;
+	border: 3px solid;
+}
+
+.box4{
+	height: 100px;
+	background: deepskyblue;
+	border: 3px solid;
+}
+
+.box5{
+	height: 50px;
+	background: red;
+	border: 3px solid;
+}
+
+.h200{
+	height: 200px;
+	background-color: silver;
+	border: 2px solid;
+}
+
+.h400{
+	height: 400px;
+	background-color: silver;
+	border: 2px solid;
+}
+
